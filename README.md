@@ -19,5 +19,5 @@ This project is an end-to-end Data Engineering pipeline built to identify hospit
 4. **Alerts & Export:** The pipeline features self-monitoring email alerts for failures and automatically exports the clean `Core.Fact_Revenue_Leakage` dataset for Tableau integration.
 
 ### Live Dashboard
-The finalized pipeline feeds directly into this executive-level dashboard to visualize the financial impact:
+The finalized pipeline feeds directly into this dashboard to visualize the financial impact:
 👉 **[https://public.tableau.com/app/profile/shreyam.singh5190/viz/Healthcare_Revenue_Leakage_Analysis/Dashboard1?publish=yes]**
